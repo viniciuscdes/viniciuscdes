@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a tecnologist passionate about solving problems through technology. Also, I love share knowlodge. 
+-  http://linkedin.com/in/viniciuscarvalho-me
+-  http://instagram.com/viniciuscarvalho.me
+
 <!--
 **viniciuscdes/viniciuscdes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
